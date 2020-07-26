@@ -1,0 +1,2 @@
+# VidLedger
+The VidLedger website is developed using HTML and CSS by using the flexbox feature which was introduced as a part of CSS. **Flexbox** is an improvement over floats which is a bit tricky. As after using floats you have to clear them. There is no such issue associated with Flexbox and is comparatively easy. This website is like a boilerplate for Static website you may modify its contents as per your need. I have developed this website to practice Flexbox.Have a look at it 
